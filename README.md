@@ -1,4 +1,3 @@
 # hello-world
 Hello!
-    My name is Matthew Outlaw (yes that is my REAL last name). For some time now, I've been playing around with writing simple scripts for fun and to make my life at work a little bit easier. To be honest, I don't understand coding as well as I'd like to and most of the scripts that I've "written" are just modified versions of code I found using Google. If coding knowledge were an ocean, I'm standing about waist-deep at the beach. I want to know more... I want to dive down and touch the bottom. I realize that I may not ever reach the bottom but I want to try anyway because I know that the journey is want's important. 
-   I will humbly and gratefully accept any constructive help (mentoring, tip, or critique of my code) so feel free to offer it. Thank you for taking the time to read this! 
+    For some time now, I've been playing around with writing simple scripts for fun and to make my life at work a little bit easier. I will humbly and gratefully accept any constructive help (mentoring, advice, etc.) so feel free to offer it. Thank you for taking the time to read this! 
